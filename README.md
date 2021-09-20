@@ -1,10 +1,13 @@
-# welcome
+# welcome 
 
 this is just for refernce.
 
-few sills
+skills i know
 
 1 html
 
 2 js
 
+3css
+
+hey i learnt this on youtube.
